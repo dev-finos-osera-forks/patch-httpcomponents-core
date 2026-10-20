@@ -1,0 +1,6 @@
+line: httpcore5-5.3
+repository: patch-httpcomponents-core
+members:
+  - org.apache.httpcomponents.core5:httpcore5
+  - org.apache.httpcomponents.core5:httpcore5-h2
+  - org.apache.httpcomponents.core5:httpcore5-parent
